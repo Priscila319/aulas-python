@@ -5,9 +5,10 @@
 ## tipos primitivos: string, number(int/float), boolean
 
 Para saber mais, <br/> [clique aqui](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-### Operadores aritméticos
-#### Operadores lógicos/comparativos
-###(if/elif/else)
+- Operadores aritméticos
+- Operadores lógicos/comparativos
+
+**Estruturas condicionais(if/elif/else)**
 
 **Tipos de estruturas condicionais:**
 
